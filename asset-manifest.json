@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-tnghtv/static/css/main.c8da1ea2.chunk.css",
+    "main.js": "https://.github.io/csb-tnghtv/static/js/main.f83cb742.chunk.js",
+    "main.js.map": "https://.github.io/csb-tnghtv/static/js/main.f83cb742.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-tnghtv/static/js/runtime-main.4659d498.js",
+    "runtime-main.js.map": "https://.github.io/csb-tnghtv/static/js/runtime-main.4659d498.js.map",
+    "static/css/2.4659568d.chunk.css": "https://.github.io/csb-tnghtv/static/css/2.4659568d.chunk.css",
+    "static/js/2.9bdd4fdf.chunk.js": "https://.github.io/csb-tnghtv/static/js/2.9bdd4fdf.chunk.js",
+    "static/js/2.9bdd4fdf.chunk.js.map": "https://.github.io/csb-tnghtv/static/js/2.9bdd4fdf.chunk.js.map",
+    "static/js/3.1d7ce1a9.chunk.js": "https://.github.io/csb-tnghtv/static/js/3.1d7ce1a9.chunk.js",
+    "static/js/3.1d7ce1a9.chunk.js.map": "https://.github.io/csb-tnghtv/static/js/3.1d7ce1a9.chunk.js.map",
+    "index.html": "https://.github.io/csb-tnghtv/index.html",
+    "static/css/2.4659568d.chunk.css.map": "https://.github.io/csb-tnghtv/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.c8da1ea2.chunk.css.map": "https://.github.io/csb-tnghtv/static/css/main.c8da1ea2.chunk.css.map",
+    "static/js/2.9bdd4fdf.chunk.js.LICENSE.txt": "https://.github.io/csb-tnghtv/static/js/2.9bdd4fdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4659d498.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.9bdd4fdf.chunk.js",
+    "static/css/main.c8da1ea2.chunk.css",
+    "static/js/main.f83cb742.chunk.js"
+  ]
+}
